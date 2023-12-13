@@ -1,3 +1,2 @@
-# Primeiro-projeto-html
-
-Projeto focado somente com o uso de html, sem css ou javascript
+# First project using only html
+Project focused only on the use of html, without css or javascript
